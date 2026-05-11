@@ -91,11 +91,11 @@ A website showcasing a curated list of major real-time AWS DevOps and Cloud proj
 
 For comprehensive DevOps projects covering various technologies and platforms beyond AWS, visit our main DevOps Projects repository:
 
-[![DevOps Projects](https://img.shields.io/badge/🔗%20DevOps%20Projects-2.5k%20⭐%20%7C%202.7k%20🍴-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa/DevOps-Projects)
+[![DevOps Projects](https://img.shields.io/badge/🔗%20DevOps%20Projects-4.0k%20⭐%20%7C%204.1k%20🍴-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa/DevOps-Projects)
 
 **Repository Highlights:**
-- **2.5k+ Stars** and **2.7k+ Forks** - Highly popular in the DevOps community
-- **13+ Real-world Projects** from beginner to advanced levels
+- **4.0k+ Stars** and **4.1k+ Forks** - Highly popular in the DevOps community
+- **40+ Real-world Projects** from beginner to advanced levels
 - **Multi-technology Coverage** including Java, Python, Docker, Kubernetes, CI/CD
 - **Hands-on Learning** with practical implementation guides
 - **Community Driven** with active contributions and discussions
