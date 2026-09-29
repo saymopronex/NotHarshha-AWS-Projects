@@ -42,7 +42,7 @@
 
 ---
 
-_*Welcome to the ultimate resource for **learning AWS DevOps through hands-on projects!** This repository is designed to cater to aspiring **AWS DevOps engineers** of all skill levels, from beginners taking their first steps in cloud computing to advanced users looking to master enterprise-level AWS architectures and automation.*_
+🚀 **Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.**
 
 ![Welcome Badge](https://img.shields.io/badge/🚀%20Welcome-Learn%20AWS%20DevOps%20Through%20Hands--On%20Projects-10b981?style=for-the-badge&logo=amazonaws&logoColor=white)
 
@@ -115,6 +115,15 @@ For comprehensive DevOps projects covering various technologies and platforms be
 > - **Beginner Projects:** Simple, foundational projects that introduce basic AWS services and DevOps concepts.
 > - **Intermediate Projects:** More complex projects that require a good understanding of AWS fundamentals and DevOps practices.
 > - **Advanced Projects:** Challenging projects designed to push your limits and deepen your understanding of sophisticated AWS architectures and enterprise-level DevOps practices.
+
+### 📚 Projects Directory
+
+| Project | Description | Core Services & Tools | Level |
+| :--- | :--- | :--- | :--- |
+| **[AWS-Project-01](./AWS-Project-01)** | Infrastructure as Code (IaC) with Terraform to host a simple web server | Terraform, EC2, Apache, Security Groups | `Beginner` |
+| **[AWS-Project-02](./AWS-Project-02)** | WordPress Hosting Architecture using Custom VPC, EC2, RDS, and S3 | VPC, EC2, RDS (MySQL), S3, IAM | `Intermediate` |
+| **[AWS-Project-03](./AWS-Project-03)** | EC2 with Application Load Balancer vs S3 Static Website Hosting | EC2, ALB, S3, Ansible, Nginx | `Beginner` / `Intermediate` |
+| **[AWS-Project-04](./AWS-Project-04)** | MailMatrix: Serverless Bulk Email Notification & Dispatch System | Lambda, S3, SES, EventBridge, CloudWatch, SNS, CloudFormation | `Intermediate` / `Advanced` |
 
 ![AWS DevOps Levels](https://img.shields.io/badge/📂%20AWS%20DevOps%20Projects-Beginner%20to%20Advanced-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white)
 
